@@ -1,8 +1,10 @@
 ## Oii, eu sou a Gabriela! 👋
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC.
 - 🎓 Técnica em Desenvolvimento Web pela ETEC.
-- ❤️ Apaixonada por tecnologia, design e aprendizado constante.
+- 📖 Atualmente, aprofundando meus estudos em Java e Lógica de Programação.
+- 👩‍💻 Em busca de oportunidades na área de Tecnologia.
+- ❤️ Apaixonada por tecnologia e aprendizado constante.
 
 ##
   ### 🔧 Tecnologias e ferramentas
